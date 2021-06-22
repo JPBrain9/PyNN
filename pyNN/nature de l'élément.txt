@@ -1,0 +1,9 @@
+control.py
+
+simulator
+
+
+projections.py
+
+presynaptic_neurons, postsynaptic_neurons, connector,attributes,
+parameter_space,names
